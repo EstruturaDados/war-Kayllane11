@@ -8,7 +8,7 @@
     struct Territorio{
         char nome[30];   // Nome do território
         char cor[10];    // Cor do exército
-        int tropas;      // Quantiddade de tropas
+        int tropas;      // Quantidade de tropas
     };
 
     // 2 Criação de um vetor para armazenar 5 territórios
@@ -43,5 +43,5 @@
     }
     printf("\nCadastro concluído com sucesso!\n"");
         
-        return0;
+        return 0;
 }
