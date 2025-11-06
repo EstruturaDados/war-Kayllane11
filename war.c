@@ -38,10 +38,10 @@
     for (int i = 0; i < 5; i++){
         printf("\nTerritório %d:\n", i + 1);
         printf("Nome: %s\n", territorios[i].cor);
-        printf("Tropas: %d\n"), territorios[i].tropas);
+        printf("Tropas: %d\n"), territorios[i].tropas;
 
     }
-    printf("\nCadastro concluído com sucesso!\n"");
+    printf("\nCadastro concluído com sucesso!\n");
         
         return 0;
 }
